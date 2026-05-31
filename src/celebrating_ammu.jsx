@@ -356,7 +356,7 @@ export default function App() {
               
               <div className="inline-flex items-center gap-4 px-8 py-4 bg-white/10 hover:bg-white/20 transition-all text-[#ffdeb8] rounded-full border border-[#ffdeb8]/30 shadow-[0_0_20px_rgba(255,222,184,0.2)]">
                 <PartyPopper className="w-6 h-6" />
-                <span className="text-lg font-medium tracking-wider">June 4th</span>
+                <span className="text-lg font-medium tracking-wider">June 2nd</span>
                 <Sparkles className="w-6 h-6" />
               </div>
             </div>
